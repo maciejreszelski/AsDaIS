@@ -68,9 +68,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>AsDaISDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="frmLog.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmLog.cs" />
     <Compile Include="frmLog.Designer.cs">
       <DependentUpon>frmLog.cs</DependentUpon>
     </Compile>
@@ -80,15 +78,11 @@
     <Compile Include="frmSettings.Designer.cs">
       <DependentUpon>frmSettings.cs</DependentUpon>
     </Compile>
-    <Compile Include="RadForm1.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="RadForm1.cs" />
     <Compile Include="RadForm1.Designer.cs">
       <DependentUpon>RadForm1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmObservations.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="frmObservations.cs" />
     <Compile Include="RadForm2.Designer.cs">
       <DependentUpon>frmObservations.cs</DependentUpon>
     </Compile>
